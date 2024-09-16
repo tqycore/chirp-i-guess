@@ -58,9 +58,9 @@
 
     "time": {
         "ago": "yang lalu"
-        "shortSeconds": "d,
+        "shortSeconds": "d,"
         "shortMinutes": "m",
-        "shortHours": "j,
+        "shortHours": "j,"
         "shortDays": "h   
     },
 
